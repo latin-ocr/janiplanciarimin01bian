@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./janiplanciarimin01bian_0099.png"; bbox 0 0 1968 1549; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1814 442 1818 1332">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1814 442 1818 1332">
+     <span class='ocr_line' id='line_1_1' title="bbox 1814 442 1818 1332"><span class='ocrx_word' id='word_1_1' title='bbox 1814 442 1818 1332; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 893 44 1856 1449">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 893 44 1856 1449">
+     <span class='ocr_line' id='line_1_2' title="bbox 893 44 1856 1449"><span class='ocrx_word' id='word_1_2' title='bbox 893 44 1856 1449; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 911 1429 1807 1436">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 911 1429 1807 1436">
+     <span class='ocr_line' id='line_1_3' title="bbox 911 1429 1807 1436"><span class='ocrx_word' id='word_1_3' title='bbox 911 1429 1807 1436; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 908 309 911 1431">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 908 309 911 1431">
+     <span class='ocr_line' id='line_1_4' title="bbox 908 309 911 1431"><span class='ocrx_word' id='word_1_4' title='bbox 908 309 911 1431; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 868 96 874 1270">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 868 96 874 1270">
+     <span class='ocr_line' id='line_1_5' title="bbox 868 96 874 1270"><span class='ocrx_word' id='word_1_5' title='bbox 868 96 874 1270; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
